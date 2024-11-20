@@ -1,0 +1,1 @@
+{"version":3,"file":"createInterestRequest.js","sourceRoot":"","sources":["../../../src/models/createInterestRequest.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,oCAA2D;AAY9C,QAAA,2BAA2B,GAAkC,IAAA,eAAM,EAC9E;IACE,IAAI,EAAE,CAAC,MAAM,EAAE,IAAA,eAAM,GAAE,CAAC;IACxB,IAAI,EAAE,CAAC,MAAM,EAAE,IAAA,eAAM,GAAE,CAAC;IACxB,MAAM,EAAE,CAAC,QAAQ,EAAE,IAAA,eAAM,GAAE,CAAC;CAC7B,CACF,CAAC"}

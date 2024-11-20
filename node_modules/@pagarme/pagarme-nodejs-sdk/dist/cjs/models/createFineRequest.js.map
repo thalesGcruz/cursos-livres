@@ -1,0 +1,1 @@
+{"version":3,"file":"createFineRequest.js","sourceRoot":"","sources":["../../../src/models/createFineRequest.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,oCAA2D;AAY9C,QAAA,uBAAuB,GAA8B,IAAA,eAAM,EAAC;IACvE,IAAI,EAAE,CAAC,MAAM,EAAE,IAAA,eAAM,GAAE,CAAC;IACxB,IAAI,EAAE,CAAC,MAAM,EAAE,IAAA,eAAM,GAAE,CAAC;IACxB,MAAM,EAAE,CAAC,QAAQ,EAAE,IAAA,eAAM,GAAE,CAAC;CAC7B,CAAC,CAAC"}

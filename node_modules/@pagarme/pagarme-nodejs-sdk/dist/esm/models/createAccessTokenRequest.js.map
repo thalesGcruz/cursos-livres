@@ -1,0 +1,1 @@
+{"version":3,"file":"createAccessTokenRequest.js","sourceRoot":"","sources":["../../../src/models/createAccessTokenRequest.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AAEH,OAAO,EAAE,MAAM,EAAE,MAAM,EAAE,QAAQ,EAAU,MAAM,WAAW,CAAC;AAQ7D,MAAM,CAAC,MAAM,8BAA8B,GAAqC,MAAM,CACpF,EAAE,SAAS,EAAE,CAAC,YAAY,EAAE,QAAQ,CAAC,MAAM,EAAE,CAAC,CAAC,EAAE,CAClD,CAAC"}

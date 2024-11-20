@@ -1,0 +1,1 @@
+{"version":3,"file":"createTokenRequest.js","sourceRoot":"","sources":["../../../src/models/createTokenRequest.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,oCAAyD;AACzD,mEAGkC;AAUrB,QAAA,wBAAwB,GAA+B,IAAA,eAAM,EAAC;IACzE,IAAI,EAAE,CAAC,MAAM,EAAE,IAAA,eAAM,GAAE,CAAC;IACxB,IAAI,EAAE,CAAC,MAAM,EAAE,IAAA,aAAI,EAAC,cAAM,OAAA,qDAA4B,EAA5B,CAA4B,CAAC,CAAC;CACzD,CAAC,CAAC"}

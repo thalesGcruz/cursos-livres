@@ -1,0 +1,1 @@
+{"version":3,"file":"createDeviceRequest.js","sourceRoot":"","sources":["../../../src/models/createDeviceRequest.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AAEH,OAAO,EAAE,MAAM,EAAE,QAAQ,EAAU,MAAM,EAAE,MAAM,WAAW,CAAC;AAQ7D,MAAM,CAAC,MAAM,yBAAyB,GAAgC,MAAM,CAAC;IAC3E,QAAQ,EAAE,CAAC,UAAU,EAAE,QAAQ,CAAC,MAAM,EAAE,CAAC,CAAC;CAC3C,CAAC,CAAC"}
